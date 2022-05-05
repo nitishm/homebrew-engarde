@@ -3,7 +3,6 @@ class Engarde < Formula
   desc "Engarde - Stay on guard with Envoy Access Logs"
   homepage "https://github.com/kushthedude/engarde"
   version "0.1.1"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/nitishm/engarde/releases/download/v0.1.1/engarde_0.1.1_Darwin_x86_64.zip"
